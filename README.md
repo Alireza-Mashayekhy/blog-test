@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Open on Vercel
 
-[Blog-test-vercel](https://vercel.com/alirezamashayekhy2000gmailcoms-projects/blog-test)
+[Blog-test-vercel](https://blog-test-gold-six.vercel.app/)
